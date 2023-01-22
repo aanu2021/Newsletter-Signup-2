@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-control{
+    padding:5%;
+}
+
+.top{
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.bottom{
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    margin-bottom:5%;
+}
+
