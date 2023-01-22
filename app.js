@@ -96,10 +96,6 @@ app.post("/failure", function (req, res) {
 
 
 
-// API Key
-// 0a4f103a6239409d1c2b9f486ff4cd9e-us17
 
-// Audience Id / List Id
-// 9e729e2916
 
 
